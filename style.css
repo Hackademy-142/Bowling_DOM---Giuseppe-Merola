@@ -1,0 +1,32 @@
+.boxMenu{
+    border: 3px solid purple;
+    border-radius: 20px;
+    height: 300px;
+}
+
+#modaleVincitore{
+    display: none;
+}
+
+.img-strike{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 500px;
+    width: 550px;
+}
+
+body{
+    background-image: url(./desktop-wallpaper-bowling-retro-bowling.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.titoloCard{
+    border: 3px solid purple;
+    border-radius: 20px;
+}
